@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1470px;
+    margin: 0 auto;
+}
+
+.Head {
+    height: 750px;
+    background-color: #F0F2F5;
+    padding-top: 180px;
+    padding-bottom: 112px;
+    
+}
+
+.Nav {
+    display: flex;
+    /* height: 600px; */
+    justify-content: space-between;
+
+
+}
+
+ .heading {
+    padding-top: 80px;
+}
+
+.Nav h1 {
+    font-family: SFProDisplay-Regular, Helvetica, Arial,sans-serif;
+    font-size: 40px;
+}
+
+
+.form-1 {
+    height: 500px;
+    background-color: #ffffff;
+    /* margin: 20px; */
+    width: 496px;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 10px 10px rgb(197, 200, 202);
+
+}
+
+input  {
+    display: block;
+    padding: 30px;
+    margin: 12px;
+    width: 87%;
+    border-radius: 8px;
+    margin-left: 0px;
+    font-size: 25px;
+    border-color: rgb(223, 220, 220);
+    
+}
+
+ .form-1 .blue {
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 25px;
+    background-color: #1877f2;
+    margin-bottom: 30px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    line-height: 1.8;
+    
+}
+
+.form-1 a {
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #1877f2;
+    margin-bottom: 10px
+}
+
+.form-1 .green {
+    padding: 27px;
+    margin-top: 60px;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color:  #42b72a;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+.form-1 #border {
+    border-top: 1px solid rgb(192, 183, 183);
+}
+
+h3 {
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+ 
+
+.tab {
+    margin: 20px;
+}
